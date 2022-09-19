@@ -1,2 +1,6 @@
 # Creating-AI-Data-Products-Using-Jupyter-Notebooks
-Python has become one of the most popular programming languages for research in the past decade. Its free, open-source nature and vast online community are some of the reasons behind its success. Countless examples of increased research productivity due to Python can be found across a plethora of domains online, including data science, arti1cial intelligence and scienti1c research. This tutorial’s goal is to help users get started with Python through the installation and setup of the Anaconda software. The goal is to set users on the path toward using the Python language by preparing them to write their 1rst script. This tutorial is divided in the following fashion: a small introduction to Python, how to download the Anaconda software, the different content that comes with the installation, and a simple example related to implementing a Python script.
+
+The Jupyter Notebook is an incredibly powerful tool for interactively developing and presenting AI data product projects.
+This GitHub-repository will walk you through how to use Jupyter Notebooks for data science projects and how to set it up on your local machine.
+
+The goal is to set users on the path toward using the Python language by preparing them to write their 1rst script. This tutorial is divided in the following fashion: a small introduction to Python, how to download the Anaconda software, the different content that comes with the installation, and a simple example related to implementing a Python script.
