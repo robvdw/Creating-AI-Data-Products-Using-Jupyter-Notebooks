@@ -8,12 +8,7 @@ This GitHub-repository will walk you through how to employ Jupyter Notebooks for
       <img class="box-logo" alt="Jupyter logo - Launch JupyterLab demo Binder" src="/assets/try/jupyter.png" height="100" loading="lazy">
       <p>The latest web-based interactive development environment</p>
       <a href="https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb" class="box-link">
-    <h2 class="box-title" id="jupyter-notebook">Jupyter Notebook<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#jupyter-notebook" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-    <div class="box-body">
-      <img class="box-logo" alt="Python logo - Launch Jupyter Notebook demo Binder" src="/assets/try/python.svg" height="100" loading="lazy">
-      <p>The original web application for creating and sharing computational documents</p>
-    </div>
-  </a>
+    <h2 class="box-title" id="jupyter-notebook">Jupyter Notebook<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#jupyter-notebook" 
     </div>
 
 
