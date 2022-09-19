@@ -1,7 +1,7 @@
 # Creating-AI-Data-Products-Using-Jupyter-Notebooks
 
 The Jupyter Notebook is an incredibly powerful coding tool for interactively developing and presenting code.
-This GitHub-repository will walk you through how to employ Jupyter Notebooks for data science projects [including AI data products] in the cloud and how to set it up on your local machine.
+This GitHub-repository will walk you through how to employ Jupyter Notebooks for data science projects [including AI data products]. We start by explaining how to set it up on your local machine [DIY].
 
 To be more precice, Jupyter notebook is a <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank" style="outline: none;" rel="noopener">cloud-based IDE</a> [Integrated Development Environment]. It is predominantly used to create Jupyter documents [.ipnyb] that can be created and shared with live codes. That is, it is a web-based interactive computational environment. The Jupyter notebook can support various languages that are popular in data science such as Python, Julia, Scala, R, etc.1
 
