@@ -4,7 +4,10 @@
 This GitHub-repository will walk you through how to employ Jupyter Notebooks for data science projects [including AI data products]. We start by explaining how to set it up on your local machine [DIY].
 
 
-<h2 class="box-title" id="jupyterlab">JupyterLab<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#jupyterlab" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+<div class="box-body">
+      <img class="box-logo" alt="Jupyter logo - Launch JupyterLab demo Binder" src="/assets/try/jupyter.png" height="100" loading="lazy">
+      <p>The latest web-based interactive development environment</p>
+    </div>
 
 
 To be more precice, Jupyter notebook is a <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank" style="outline: none;" rel="noopener">cloud-based IDE</a> [Integrated Development Environment]. Data Scientists use notebboks predominantly to create documents [.ipynb] that can be created and shared with live codes. That is, it is a web-based interactive computational environment. The Jupyter notebook can support various languages that are popular in data science such as Python, Julia, Scala, R, etc.1
