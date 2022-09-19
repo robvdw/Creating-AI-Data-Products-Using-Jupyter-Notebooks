@@ -3,6 +3,10 @@
 <a href="https://jupyter.org/try" style="outline: none;">Jupyter</a> is an incredibly powerful coding tool for interactively developing and presenting coding workflows.
 This GitHub-repository will walk you through how to employ Jupyter Notebooks for data science projects [including AI data products]. We start by explaining how to set it up on your local machine [DIY].
 
+
+<h2 class="box-title" id="jupyterlab">JupyterLab<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#jupyterlab" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+
 To be more precice, Jupyter notebook is a <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank" style="outline: none;" rel="noopener">cloud-based IDE</a> [Integrated Development Environment]. Data Scientists use notebboks predominantly to create documents [.ipynb] that can be created and shared with live codes. That is, it is a web-based interactive computational environment. The Jupyter notebook can support various languages that are popular in data science such as Python, Julia, Scala, R, etc.1
 
 The goal is to set users on the path toward using the Python language by preparing them to write their 1rst script. This tutorial is divided in the following fashion: a small introduction to Python, how to download the Anaconda software, the different content that comes with the installation, and a simple example related to implementing a Python script.
