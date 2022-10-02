@@ -1,9 +1,11 @@
 # Creating-AI-Data-Products-Using-Jupyter-Notebooks
 
-<a href="https://jupyter.org/try" style="outline: none;">Jupyter</a> is an amazing &  versatile coding tool for interactively developing and presenting data science workflows. This GitHub-repository will walk you through "How to employ Jupyter Notebooks for data science projects". We start by explaining how to set it up on your local machine [DIY]. A Jupyter Notebook <a href="https://link.springer.com/article/10.1007/s10664-021-09961-9"  target="_blank" style="outline: none;" rel="noopener"> (Shen 2014)</a>  is both an interactive literate programming document
-and an application that executes the document. In
+<a href="https://jupyter.org/try" style="outline: none;">Jupyter</a> is an amazing &  versatile coding tool for interactively developing and presenting data science workflows. This GitHub-repository will walk you through "How to employ Jupyter Notebooks for data science projects". We start by explaining how to set it up on your local machine [DIY]. 
+
+A Jupyter Notebook <a href="https://link.springer.com/article/10.1007/s10664-021-09961-9"  target="_blank" style="outline: none;" rel="noopener"> (Shen 2014)</a>  is both an interactive literate programming document
+and an application that executes the document.
  
-To be more precice, Jupyter notebook is a <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank" style="outline: none;" rel="noopener"> web-browser based IDE</a> [Integrated Development Environment]. Data Scientists use notebboks predominantly to create documents [.ipynb] that can be created and shared with live codes. That is, it is a web-based interactive computational environment. The Jupyter notebook can support various languages that are popular in data science such as Python, Julia, Scala, R, etc.1
+To be more precice, Jupyter notebook is a <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank" style="outline: none;" rel="noopener"> web-browser based IDE</a> [Integrated Development Environment]. Data Scientists use notebooks mainly to create documents [.ipynb] that can be created and shared with live codes. In other words, it represents a web-based interactive computational environment to perform research. The Jupyter notebook can support <a href="https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html" target="_blank" style="outline: none;" rel="noopener"> various languages</a> that are popular in data science such as Python, Julia, Scala, R, etc.
 
 The goal is to set users on the path toward using the Python language by preparing them to write their 1rst script. This tutorial is divided in the following fashion: a small introduction to Python, how to download the Anaconda software, the different content that comes with the installation, and a simple example related to implementing a Python script.
 
