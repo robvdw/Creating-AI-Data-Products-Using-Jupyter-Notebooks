@@ -18,5 +18,6 @@ There are also very diffent ways in which to use Jupyter Notebooks:
 * https://github.com/jmshea/jupyterquiz
 * https://www.codecademy.com/article/how-to-use-jupyter-notebooks
 * https://www.tutorialspoint.com/jupyter/jupyter_notebook_markdown_cells.htm
+* Creating-AI-Data-Products-Using-Jupyter-Notebooks
 
 ![jupyter](https://user-images.githubusercontent.com/684692/191042084-f82c5fb2-1b46-40fe-a631-420493397049.png) ![logo](https://user-images.githubusercontent.com/684692/193475314-5cd8eea1-35f8-4db9-9624-9fa8cd1425bb.svg) 
