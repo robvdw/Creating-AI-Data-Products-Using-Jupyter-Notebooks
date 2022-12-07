@@ -14,6 +14,7 @@ Best of all, as part of the open source <a href="https://jupyter.org/" style="ou
 In addition, Jupyter combined with <a href="https://mybinder.org/" style="outline: none;">Binder</a> allows the owner of a set of notebooks residing in a public repository to pre-build an image in the Binder service, and get a shareable link that any visitor can use to obtain a working instance of JupyterHub, pre-loaded with the notebooks in the repository. The session is temporary (any changes the user makes will be deleted when closing the tab or window), but it’s fully interactive. Binder can be used as a web-based service for running one-off workshops or tutorials. 
 
 There are also very diffent ways in which to use Jupyter Notebooks: 
+* https://mljar.com/blog/how-to-use-jupyter-notebook/
 * https://mljar.com/blog/how-to-use-jupyter-notebook/ 
 * https://github.com/jmshea/jupyterquiz
 * https://www.codecademy.com/article/how-to-use-jupyter-notebooks
