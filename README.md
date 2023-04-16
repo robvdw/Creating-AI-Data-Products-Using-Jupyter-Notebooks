@@ -9,6 +9,8 @@ For a more critical review on Jupyter (Notebooks) see <a href="https://towardsda
 * <a href="https://www.nature.com/articles/d41586-018-07196-1" target="_blank" style="outline: none;" rel="noopener"> Nature 563, 145-146 (2018)</a>
 * [Kaggle survey 2021](https://www.kaggle.com/kaggle-survey-2021)   
 * [Anaconda surbey 2021](https://www.anaconda.com/state-of-data-science-2021).
+
+A Collaborative Data Science Notebooks overview can be found on [Jupyter Alternatives](https://geekflare.com/best-data-science-notebooks/)
  
 
 A Jupyter Notebook <a href="https://link.springer.com/article/10.1007/s10664-021-09961-9"  target="_blank" style="outline: none;" rel="noopener"> (Pimentel et al., 2021)</a>  is both an interactive literate programming document and an application that executes the document. Hence, notebooks are living documents, meaning they can be edited to respond to questions or input from students and used a conversation piece during a lecture or presentation.
