@@ -1,8 +1,12 @@
 # Creating-AI-Data-Products-Using-Jupyter-Notebooks
 
-<a href="https://jupyter.org/try" style="outline: none;">Jupyter</a> is an amazing &  versatile coding tool for interactively developing and presenting data science workflows in order to create data products. This GitHub-repository will walk you through "How to employ Jupyter Notebooks for data science projects". 
+<a href="https://jupyter.org/try" style="outline: none;">Jupyter</a> is an amazing & versatile coding tool for interactively developing and presenting data science workflows in order to create data products. This GitHub-repository will walk you through "How to employ Jupyter Notebooks for data science projects". 
 
-I start by explaining how to set it up on your local machine [DIY]. For a more critical review on Jupyter (Notebooks) see <a href="https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243" target="_blank" style="outline: none;" rel="noopener">The case against the jupyter notebook</a>. Nonetheless, Jupyter is currently the coding tool of choice among "data scientists" see for example:  
+ 
+
+>Jupyter Notebook combines live code, graphics, visualizations, and text in shareable notebooks that run in a web browser. <br> <br> Brian Granger and Fernando Perez, two of the co-leaders of Project Jupyter, describe this as "Jupyter helps humans to think and tell stories with code and data" [Granger2021](https://doi.org/10.1109/MCSE.2021.3059263).
+
+For a more critical review on Jupyter (Notebooks) see <a href="https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243" target="_blank" style="outline: none;" rel="noopener">The case against the jupyter notebook</a>. Nonetheless, Jupyter is currently the coding tool of choice among "data scientists" see for example:  
 * <a href="https://www.nature.com/articles/d41586-018-07196-1" target="_blank" style="outline: none;" rel="noopener"> Nature 563, 145-146 (2018)</a>
 * [Kaggle survey 2021](https://www.kaggle.com/kaggle-survey-2021)   
 * [Anaconda surbey 2021](https://www.anaconda.com/state-of-data-science-2021).
