@@ -16,7 +16,7 @@ A Jupyter Notebook <a href="https://link.springer.com/article/10.1007/s10664-021
 | Feature | Description |
 | --- | --- |
 | Data visualizations | Most people have their first exposure to Jupyter Notebook by way of a data visualization, a shared notebook that includes a rendering of some data set as a graphic. Jupyter Notebook lets you author visualizations, but also share them and allow interactive changes to the shared code and data set. |
-| Code sharing | Cloud services like GitHub and Pastebin provide ways to share code, but they’re largely non-interactive. With a Jupyter Notebook, you can view code, execute it, and display the results directly in your web browser. |
+| Code sharing | With Jupyter Notebook, you can view code, execute it, and display the results directly in your web browser. |
 | Live interactions with code | Jupyter Notebook code isn’t static; it can be edited and re-run incrementally in real time, with feedback provided directly in the browser. Notebooks can also embed user controls (e.g., sliders or text input fields) that can be used as input sources for code. |
 | Documenting code samples | If you have a piece of code and you want to explain line-by-line how it works, with live feedback all along the way, you could embed it in a Jupyter Notebook. Best of all, the code will remain fully functional—you can add interactivity along with the explanation, showing and telling at the same time. |  
  
