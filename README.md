@@ -42,6 +42,7 @@ There are also very diffent ways in which to use Jupyter Notebooks:
 * [IPython provides a rich architecture for interactive computing](https://ipython.org/)
 * [How to use Jupyter notebooks in a conda environment?](https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment)
 * [Data Science Use-Cases + Jupyter Dashboards Extension Incorporation](https://jupyter.org/enhancement-proposals/17-jupyter-dashboards-extension-incorporation/jupyter-dashboards-extension-incorporation.html)
+* [Why switch to JupyterLab from jupyter-notebook?](https://medium.com/analytics-vidhya/why-switch-to-jupyterlab-from-jupyter-notebook-c6d98362945b)
 
 
 <br>
