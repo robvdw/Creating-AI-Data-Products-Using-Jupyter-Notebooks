@@ -1,4 +1,4 @@
-# Creating-AI-Data-Products-Using-Jupyter-Notebooks
+# What is Jupyter Notebook?
 
 <a href="https://jupyter.org/try" style="outline: none;">Jupyter</a> is an amazing & versatile coding tool for interactively developing and presenting data science workflows in order to create data products. This GitHub-repository will provide usefull recources *"How to employ Jupyter Notebooks for data science projects"*. 
 
