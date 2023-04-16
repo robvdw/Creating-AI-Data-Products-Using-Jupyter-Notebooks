@@ -19,5 +19,6 @@ There are also very diffent ways in which to use Jupyter Notebooks:
 * [How to use Jupyter Notebooks](https://www.codecademy.com/article/how-to-use-jupyter-notebooks)
 * [Markdown](https://www.tutorialspoint.com/jupyter/jupyter_notebook_markdown_cells.htm)
 * [Wat Is Jupyter Notebook? incl. installatie-handleiding](https://pythoncursus.nl/jupyter-notebook/#:~:text=Wanneer%20Jupyter%20Notebook%20opstart%20en,uit%20en%20toont%20het%20resultaat.)
+* [Notebooks experiences from Microsoft and GitHub](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/)
 
 ![jupyter](https://user-images.githubusercontent.com/684692/191042084-f82c5fb2-1b46-40fe-a631-420493397049.png) ![logo](https://user-images.githubusercontent.com/684692/193475314-5cd8eea1-35f8-4db9-9624-9fa8cd1425bb.svg) 
