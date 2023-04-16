@@ -15,6 +15,7 @@ In addition, Jupyter combined with [IPython](https://ipython.org/)  & <a href="h
 
 There are also very diffent ways in which to use Jupyter Notebooks: 
 * [What is Jupyter Notebook? Data analysis made easier](https://www.infoworld.com/article/3347406/what-is-jupyter-notebook-data-analysis-made-easier.html)
+* [Jupyter for Computational Science and Data Science](https://fangohr.github.io/blog/jupyter-for-computational-science-and-data-science.html)
 * [Use-cases for Jupyter Notebooks](https://mljar.com/blog/how-to-use-jupyter-notebook/)
 * [Jupyter PoP-Quizes](https://github.com/jmshea/jupyterquiz)
 * [How to use Jupyter Notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
