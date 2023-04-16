@@ -22,6 +22,7 @@ There are also very diffent ways in which to use Jupyter Notebooks:
 * [Wat Is Jupyter Notebook? incl. installatie-handleiding](https://pythoncursus.nl/jupyter-notebook/#:~:text=Wanneer%20Jupyter%20Notebook%20opstart%20en,uit%20en%20toont%20het%20resultaat.)
 * [Notebooks experiences from Microsoft and GitHub](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/)
 * [IPython provides a rich architecture for interactive computing](https://ipython.org/)
+* [How to use Jupyter notebooks in a conda environment?](https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment)
 
 <br>
 
