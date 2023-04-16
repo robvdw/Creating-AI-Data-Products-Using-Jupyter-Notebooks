@@ -5,7 +5,7 @@
 
 >Jupyter Notebooks combine live code, graphics, visualizations, and text in shareable notebooks that run in a web browser. <br> <br> Brian Granger and Fernando Perez, two of the co-leaders of Project Jupyter, describe this as "Jupyter helps humans to think and tell stories with code and data" [Granger2021](https://doi.org/10.1109/MCSE.2021.3059263).
 
-For a more critical review on Jupyter (Notebooks) see <a href="https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243" target="_blank" style="outline: none;" rel="noopener">The case against the jupyter notebook</a>. Nonetheless, Jupyter is currently the coding tool of choice among "data scientists" see for example:  
+For a more critical review on Jupyter (Notebooks) see <a href="https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243" target="_blank" style="outline: none;" rel="noopener">The case against the jupyter notebook</a>. Nonetheless, Jupyter is currently the coding tool of choice among *"data scientists"* see for example:  
 * <a href="https://www.nature.com/articles/d41586-018-07196-1" target="_blank" style="outline: none;" rel="noopener"> Nature 563, 145-146 (2018)</a>
 * [Kaggle survey 2021](https://www.kaggle.com/kaggle-survey-2021)   
 * [Anaconda surbey 2021](https://www.anaconda.com/state-of-data-science-2021).
@@ -13,9 +13,17 @@ For a more critical review on Jupyter (Notebooks) see <a href="https://towardsda
 
 A Jupyter Notebook <a href="https://link.springer.com/article/10.1007/s10664-021-09961-9"  target="_blank" style="outline: none;" rel="noopener"> (Pimentel et al., 2021)</a>  is both an interactive literate programming document and an application that executes the document. Hence, notebooks are living documents, meaning they can be edited to respond to questions or input from students and used a conversation piece during a lecture or presentation.
  
+| Feature | Description |
+| --- | --- |
+| Data visualizations | Most people have their first exposure to Jupyter Notebook by way of a data visualization, a shared notebook that includes a rendering of some data set as a graphic. Jupyter Notebook lets you author visualizations, but also share them and allow interactive changes to the shared code and data set. |
+| Code sharing | Cloud services like GitHub and Pastebin provide ways to share code, but they’re largely non-interactive. With a Jupyter Notebook, you can view code, execute it, and display the results directly in your web browser. |
+| Live interactions with code | Jupyter Notebook code isn’t static; it can be edited and re-run incrementally in real time, with feedback provided directly in the browser. Notebooks can also embed user controls (e.g., sliders or text input fields) that can be used as input sources for code. |
+| Documenting code samples | If you have a piece of code and you want to explain line-by-line how it works, with live feedback all along the way, you could embed it in a Jupyter Notebook. Best of all, the code will remain fully functional—you can add interactivity along with the explanation, showing and telling at the same time. |  
+ 
+ 
 To be more precise, Jupyter notebook is a <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank" style="outline: none;" rel="noopener"> web-browser based IDE</a> [Integrated Development Environment]. Data Scientists use notebooks mainly to create documents that can be created and shared with live code. In other words, it represents a web-based interactive computational environment to perform research. Jupyter can support <a href="https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html" target="_blank" style="outline: none;" rel="noopener"> various programming languages (called “kernels” in the Jupyter ecosystem)</a> that are popular in data science such as Python, Java, R, Julia, Matlab, Octave, Scheme, Processing, Scala, and many more. 
 
-The goal is to set users on the path toward using the Python language by preparing them to write their 1rst script. This tutorial is divided in the following fashion: a small introduction to Python, how to download the Anaconda software, the different content that comes with the installation, and a simple example related to implementing a Python script.
+The goal is to set users on the path toward using the Python language by preparing them to write their firstscript. This tutorial is divided in the following fashion: a small introduction to Python, how to download the Anaconda software, the different content that comes with the installation, and a simple example related to implementing a Python script.
 
 Best of all, as part of the open source <a href="https://jupyter.org/" style="outline: none;">Project Jupyter</a>, Jupyter Notebooks are completely free. You can download the software <a href="https://jupyter.org/install" target="_blank" style="outline: none;" rel="noopener">on its own</a>, or as part of the <a href="https://www.anaconda.com/products/individual" target="_blank" rel="noopener">Anaconda data science toolkit</a>. 
 
